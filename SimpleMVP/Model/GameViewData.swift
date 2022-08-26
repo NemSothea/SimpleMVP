@@ -5,4 +5,6 @@
 //  Created by MacBook Pro on 26/8/22.
 //
 
-import Foundation
+struct GameViewData {
+    let name : String
+}

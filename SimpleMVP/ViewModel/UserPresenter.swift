@@ -6,3 +6,13 @@
 //
 
 import Foundation
+
+struct UserViewData {
+    let name    : String
+    let age     : String
+    
+}
+
+class UserPresenter {
+    
+}
